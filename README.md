@@ -27,7 +27,7 @@ a = "john"
 # You can see that this wont raise any type errors unlike java or C/C++
 ```
 
-String in python
+### String in python
 ```py
 #!/usr/bin/python
 
@@ -52,7 +52,7 @@ Hello World!TEST
 
 ```
 
-Decision making. (If else)
+### Decision making. (If else)
 ```py
 
 # Basic syntax
@@ -75,7 +75,7 @@ var = 100
 if ( var  == 100 ) : print "Value of expression is 100"
 
 ```
-List in python
+### List in python
 ```py
 # You can consider it as analogous to an array which can store any data type.
 list1 = ['physics', 'chemistry', 1997, 2000];
@@ -92,7 +92,7 @@ list[2] = 2001;
 
 # For other advanced usage refer to tutorialspoint. 
 ```
-Dictionary in python
+### Dictionary in python
 ```py
 # Key, value pair.
 # hash. O(1) access time.
@@ -102,7 +102,7 @@ print "dict['Name']: ", dict['Name']
 print "dict['Age']: ", dict['Age']
 
 ```
-Functions
+### Functions
 ```py
 # Basic syntax for a function
 def functionname( parameters ):
@@ -119,7 +119,12 @@ print advanced(l)
 # Why should I care about this? 
 # Sometimes in a function you have to pass many arguments, sometimes not so many for the same function.
 ```
-Class 
+### Loops
+For understanding loops I strongly recommend you to look these articles
+https://www.tutorialspoint.com/python/python_for_loop.htm
+https://www.tutorialspoint.com/python/python_while_loop.htm
+
+### Class 
 ```py
 # TODO: 
 '''
